@@ -60,7 +60,7 @@ Currently, I’m focusing on expanding my skills in both frontend and backend st
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamimaafroz&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamimaafrozE&show_icons=true&theme=radical" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=jamimaafroz&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamimaafroz&layout=compact&theme=radical" alt="Top Languages" />
