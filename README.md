@@ -57,13 +57,12 @@ I enjoy turning data into insights and ideas into real products.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamimaafroz&theme=radical" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamimaafroz&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamimaafroz&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamimaafroz&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamimaafroz&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -73,7 +72,7 @@ I enjoy turning data into insights and ideas into real products.
   <a href="https://github.com/jamimaafroz" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/jamima-afroz-usha" target="_blank">
+  <a href="https://www.linkedin.com/in/jamima-afroz/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
