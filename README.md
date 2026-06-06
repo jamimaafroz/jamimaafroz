@@ -57,9 +57,7 @@ I enjoy turning data into insights and ideas into real products.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamimaafroz&theme=radical" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamimaafroz&show_icons=true&theme=radical&hide_border=true" />
-</p>
+
 
 
 
